@@ -9,8 +9,9 @@ function devolverString(string) {
 // ⛔️ "X" e "Y" son números.
 
 function suma(x, y) {
-   // Retorna el resultado de su suma.
-   // Tu código:
+   var x = 5;
+   var y = 10;
+   return suma
 }
 
 function resta(x, y) {
